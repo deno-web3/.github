@@ -7,6 +7,7 @@ This is a collection of Deno modules for the web3 / blockchain ecosystem.
 Featured projects:
 
 - [solc](https://github.com/deno-web3/solc) - Solidity compiler bindings for Deno
+- [sol_build](https://github.com/deno-web3/sol_build) - Deno CLI and API to compile Solidity smart contracts
 - [slate](https://github.com/deno-web3/slate) - Unofficial Slate API client for Deno, an open-source Filecoin-based storage system.
 - [zrx](https://github.com/deno-web3/zrx) - An unofficial 0x Protocol API client for Deno.
 - [estuary](https://github.com/deno-web3/estuary) - Unofficial Deno API client for Estuary, a custom IPFS / Filecoin node
@@ -14,4 +15,3 @@ Featured projects:
 Ideas:
 
 - **eth_node** - Local Ethereum blockchain for Deno. (like [deth](https://github.com/dethcrypto/deth), hardhat or truffle)
-- **sol_build** - CLI for compiling Solidity contracts based on solc
